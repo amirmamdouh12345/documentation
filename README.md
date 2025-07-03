@@ -28,22 +28,22 @@ Cross-project visibility: Users with access can switch between projects.
 4. Azure Test Plans
 5. Azure Artifacts
    
-## Azure Boards <br>
+### Azure Boards <br>
 **Purpose:** Project management. <br>
 **Tools:** Work items, Kanban boards, backlogs, sprints. <br>
 **Used for:** Tracking tasks, bugs, user stories, features.<br>
-## Azure Repos         <br>
+### Azure Repos         <br>
 **Purpose:** Source code version control.   <br>
 **Tools:** Git repositories or Team Foundation Version Control (TFVC).  <br>
 **Used for:** Collaborating on code with pull requests, branching, and versioning. <br>
-## Azure Pipelines    <br>
+### Azure Pipelines    <br>
 **Purpose:** Continuous Integration / Continuous Deployment (CI/CD).  <br>
 **Supports:** Multi-platform (Linux, Windows, macOS) and multi-language (Java, .NET, Node.js, Python, etc.). <br>
 **Used for:** Automating build, test, and deployment workflows. <br>
-## Azure Test Plans  <br>
+### Azure Test Plans  <br>
 **Purpose:** Manual and exploratory testing.  <br>
 **Used for:** Planning, executing, and tracking tests to improve software quality. <br>
-## Azure Artifacts  <br>
+### Azure Artifacts  <br>
 **Purpose:** Package management.    <br>
 **Supports:** NuGet, npm, Maven, Python packages.  <br>
 **Used for:** Hosting and sharing packages across teams and projects.  <br>
