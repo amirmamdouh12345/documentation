@@ -19,7 +19,10 @@ Epic
 ```
 ### Epic 
 A large body of work that can be broken down into smaller parts (issues). <br>
-Think of it as a goal or major feature area. 
+Think of it as a goal or major feature area.  <br>
+
+Example Epics: 
+- “User Management System”
 
 ### Issue
 A work item that belongs to an epic and describes a specific feature, bug, or task. <br>
