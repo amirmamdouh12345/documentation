@@ -25,7 +25,7 @@ Think of it as a goal or major feature area.
 A work item that belongs to an epic and describes a specific feature, bug, or task. <br>
 Issues are the main units of work you manage on the Board. <br>
 Represents Feature, bug, user story, or general task.  <br>
-✅ Example Issues (under Epic: "User Management System"):
+Example Issues (under Epic: "User Management System"):
 - “Implement login API”
 - “Fix registration validation bug”
 - “Design forgot password screen”
