@@ -2,4 +2,4 @@
 ## DDD
 ### QQQ
 
-**bold** Amir Mamdouh
+**Amir Mamdouh**
