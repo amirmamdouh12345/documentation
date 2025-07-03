@@ -58,11 +58,11 @@ Azure DevOps permissions are managed through:
 - Access Levels (Stakeholder, Developer, etc.) 
 - Fine-Grained Permissions (Repos, Pipelines, Work Items, etc.)
 
-### Security Groups
+### 1. Security Groups
 - Default Security Groups ( Project Admins -> DevOps/IT  , Contributers -> Developers,QA , Reader -> Stackholder )
 - Custom Security Groups: Create groups for specific needs
 
-### Fine-Grained Permissions
+### 2. Fine-Grained Permissions
 Edit in Security configurations and Override defaults for specific resources:
 - **Repositories**: <br>
 Branch-level control: Restrict who can push to main.  <br>
