@@ -55,7 +55,6 @@ Azure DevOps provides flexible, multi-layered security to control access at the 
 ### Permission Structure Overview:
 Azure DevOps permissions are managed through:
 - Security Groups (Predefined/Custom roles)
-- Access Levels (Stakeholder, Developer, etc.) 
 - Fine-Grained Permissions (Repos, Pipelines, Work Items, etc.)
 
 ### 1. Security Groups
