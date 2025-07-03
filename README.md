@@ -3,9 +3,9 @@ Azure DevOps is a cloud-based platform provided by Microsoft that offers a compl
 
 ## Core Services in Azure DevOps:
 1. Azure Boards
-**Purpose:** Project management. \n
-**Tools:** Work items, Kanban boards, backlogs, sprints.
-**Used for:** Tracking tasks, bugs, user stories, features.
+**Purpose:** Project management. <br>
+**Tools:** Work items, Kanban boards, backlogs, sprints. <br>
+**Used for:** Tracking tasks, bugs, user stories, features.<br>
 2. Azure Repos
 **Purpose:** Source code version control.
 **Tools:** Git repositories or Team Foundation Version Control (TFVC).
