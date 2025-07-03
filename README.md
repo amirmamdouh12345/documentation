@@ -1,3 +1,3 @@
-#Head\#
-##DDD\#\#
-###QQQ\#\#\#
+#Head
+##DDD
+###QQQ
