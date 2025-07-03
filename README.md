@@ -4,7 +4,7 @@ It helps teams manage and track **tasks**, **bugs** or **features** throughout t
 
 ## Azure DevOps Board Processes types:
 There are three different types of processes in Azure DevOps Board which each one of them has different set of work items:
-- Basic ( Epic -> Issue -> Task )        \t \t              ' -> ' means includes
+- Basic ( Epic -> Issue -> Task )     .............        ' -> ' means includes
 - Agile
 - Scrum
 - CMMI
