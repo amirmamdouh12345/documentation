@@ -64,9 +64,9 @@ Azure DevOps permissions are managed through:
 
 ### Fine-Grained Permissions
 Edit in Security configurations and Override defaults for specific resources:
-- **Repositories**:
-Branch-level control: Restrict who can push to main.
-Repo-level control: Hide sensitive repos.
+- **Repositories**: <br>
+Branch-level control: Restrict who can push to main.  <br>
+Repo-level control: Hide sensitive repos.  <br>
 
 - **Pipelines**:
 Limit who can edit/run pipelines.
