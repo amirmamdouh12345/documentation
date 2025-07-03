@@ -1,7 +1,24 @@
-# Head
-## DDD
-### QQQ
+# What is Azure DevOps
+Azure DevOps is a cloud-based platform provided by Microsoft that offers a complete set of tools for software development and DevOps practices. It helps teams plan work, collaborate on code development, build and deploy applications, and manage the entire application lifecycle.
 
-**Amir Mamdouh**
-[googleURL](https://www.google.co.uk/)
-![alt text]([https://www.google.com/imgres?q=google&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F2%2F2f%2FGoogle_2015_logo.svg%2F800px-Google_2015_logo.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGoogle_logo&docid=YYcJ4Dx_qJL9iM&tbnid=ouvlTYelZsinyM&vet=12ahUKEwif95qhnaCOAxWMa0EAHcLiLbAQM3oECHMQAA..i&w=800&h=271&hcb=2&itg=1&ved=2ahUKEwif95qhnaCOAxWMa0EAHcLiLbAQM3oECHMQAA](https://meremobil.dk/wp-content/uploads/2024/11/unnamed.jpg.webp))
+## Core Services in Azure DevOps:
+1. Azure Boards
+**Purpose:** Project management.
+**Tools:** Work items, Kanban boards, backlogs, sprints.
+**Used for:** Tracking tasks, bugs, user stories, features.
+2. Azure Repos
+**Purpose:** Source code version control.
+**Tools:** Git repositories or Team Foundation Version Control (TFVC).
+**Used for:** Collaborating on code with pull requests, branching, and versioning.
+3. Azure Pipelines
+**Purpose:** Continuous Integration / Continuous Deployment (CI/CD).
+**Supports:** Multi-platform (Linux, Windows, macOS) and multi-language (Java, .NET, Node.js, Python, etc.).
+**Used for:** Automating build, test, and deployment workflows.
+4. Azure Test Plans
+**Purpose:** Manual and exploratory testing.
+**Used for:** Planning, executing, and tracking tests to improve software quality.
+5. Azure Artifacts
+**Purpose:** Package management.
+**Supports:** NuGet, npm, Maven, Python packages.
+**Used for:** Hosting and sharing packages across teams and projects.
+
