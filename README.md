@@ -17,7 +17,11 @@ Manages licenses (e.g., Azure Pipelines parallel jobs).
 Organization-wide settings: Policies, extensions, agent pools.
 Cross-project visibility: Users with access can switch between projects.
 
-## Core Services in Azure DevOps:
+## Project 
+- A sub-container within an organization for a specific initiative (e.g., "E-Commerce App").
+- Isolates work, code, and artifacts for a single team or product.
+
+## Core Services in Azure DevOps Projects:
 1. Azure Boards
 2. Azure Repos
 3. Azure Pipelines
@@ -43,4 +47,27 @@ Cross-project visibility: Users with access can switch between projects.
 **Purpose:** Package management.    <br>
 **Supports:** NuGet, npm, Maven, Python packages.  <br>
 **Used for:** Hosting and sharing packages across teams and projects.  <br>
+
+
+## Azure DevOps Permissions & Security:
+Azure DevOps provides flexible, multi-layered security to control access at the organization, project, and individual resource levels.
+
+### Permission Structure Overview:
+Azure DevOps permissions are managed through:
+- Security Groups (Predefined/Custom roles)
+- Access Levels (Stakeholder, Developer, etc.) 
+- Fine-Grained Permissions (Repos, Pipelines, Work Items, etc.)
+
+### Security Groups
+- Default Security Groups ( Project Admins -> DevOps/IT  , Contributers -> Developers,QA , Reader -> Stackholder )
+- Custom Security Groups: Create groups for specific needs
+
+### Fine-Grained Permissions
+Edit in Security configurations and Override defaults for specific resources:
+- **Repositories**:
+Branch-level control: Restrict who can push to main.
+Repo-level control: Hide sensitive repos.
+
+- **Pipelines**:
+Limit who can edit/run pipelines.
 
