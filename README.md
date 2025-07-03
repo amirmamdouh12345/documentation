@@ -1,5 +1,21 @@
-# What is Azure DevOps
+# Azure DevOps Overview
 Azure DevOps is a cloud-based platform provided by Microsoft that offers a complete set of tools for software development and DevOps practices. It helps teams plan work, collaborate on code development, build and deploy applications, and manage the entire application lifecycle.
+
+## Organization
+- The top-level container in Azure DevOps (e.g., contoso.visualstudio.com).
+- Represents your company, team, or department.
+- Can contain multiple projects.
+
+### Key Features:
+- **User Management:**
+Controls access for all projects under it (e.g., Azure AD integration).
+
+- **Billing/Subscriptions:**
+Manages licenses (e.g., Azure Pipelines parallel jobs).
+
+- **Shared Resources:**
+Organization-wide settings: Policies, extensions, agent pools.
+Cross-project visibility: Users with access can switch between projects.
 
 ## Core Services in Azure DevOps:
 1. Azure Boards
