@@ -12,7 +12,7 @@ There are three different types of processes in Azure DevOps Board which each on
 ## Focus on Basic Processs
 The Basic process is the simplest and most lightweight process in Azure Boards. it's used for simple projects.
 **Work Item Hierarchy in Basic Process:**
-``bash
+`bash
 Epic
  └── Issue
       └── Task
