@@ -3,8 +3,8 @@
 ## Azure DevOps Structure
 An Azure DevOps Organization is the top-level container that holds everything: projects, users, permissions, billing, etc.
 ### Structure Example
-Azure DevOps Organization: amir-devops-org
 ``` bash
+Azure DevOps Organization: amir-devops-org
 ├── Project: ecommerce-app
 │   ├── Repos
 │   ├── Pipelines
