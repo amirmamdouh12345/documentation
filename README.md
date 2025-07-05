@@ -1,4 +1,5 @@
 # Azure DevOps Overview
+Azure DevOps is a cloud-based platform from Microsoft that provides a full DevOps toolchain to plan, build, test, and deploy applications.
 
 ## Azure DevOps Structure
 An Azure DevOps Organization is the top-level container that holds everything: projects, users, permissions, billing, etc.
