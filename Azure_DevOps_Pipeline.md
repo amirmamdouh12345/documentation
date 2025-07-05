@@ -29,9 +29,9 @@ Stages
 ```
 
 ## Azure DevOps Pipelinee Connections with other Resources
-- Connecting to Azure Artifacts <br>
+- **Connecting to Azure Artifacts** <br>
 Publish or consume application packages like .jar files 
-- Deploying to Azure App Service  <br>
+- **Deploying to Azure App Service**  <br>
 Azure App Services are commonly used for deploying Web Apps, APIs, and Java/Spring Boot services.
 
 
