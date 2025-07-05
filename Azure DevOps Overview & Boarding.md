@@ -26,8 +26,8 @@ It helps teams manage and track **tasks**, **bugs** or **features** throughout t
 ## Azure DevOps Board Processes types:
 There are three different types of processes in Azure DevOps Board which each one of them has different set of work items:
 - Basic ( Epic -> Issue -> Task )     .............        ' -> ' means includes
-- Agile
-- Scrum
+- Agile 
+- Scrum ( epics -> features -> user stories/tasks ) 
 - CMMI
 
 ## Focus on Basic Processs
@@ -64,3 +64,12 @@ Example Tasks (under Issue: "Implement login API"): <br>
 - “Create SQL table for users”
 - “Write JWT token generator”
 - “Add unit tests for login endpoint”
+
+## Azure DevOps Board Sprints
+A Sprint in Azure DevOps is a time-boxed iteration (typically 1–4 weeks) where your team works on a selected set of work items (stories, tasks, bugs) and tracks their progress. <br>
+It’s part of Scrum-based agile project management in Azure Boards.
+
+## Board Queries
+Queries let you search and filter work items using custom rules (like SQL for work items).
+
+
