@@ -1,3 +1,23 @@
+# Azure DevOps Overview
+
+## Azure DevOps Structure
+An Azure DevOps Organization is the top-level container that holds everything: projects, users, permissions, billing, etc.
+### Structure Example
+Azure DevOps Organization: amir-devops-org
+``` bash
+├── Project: ecommerce-app
+│   ├── Repos
+│   ├── Pipelines
+│   └── Boards
+├── Project: internal-tools
+│   ├── Repos
+│   ├── Test Plans
+│   └── Artifacts
+└── Project: data-pipeline
+    ├── Pipelines
+    └── Service Connections
+```
+
 # Azure DevOps Board
 Azure Boards is a work tracking system within Azure DevOps. 
 It helps teams manage and track **tasks**, **bugs** or **features** throughout the development lifecycle using Agile, Scrum, or Kanban methodologies.
