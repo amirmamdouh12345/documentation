@@ -35,6 +35,10 @@ Publish or consume application packages like .jar files
 - **Deploying to Azure App Service**  <br>
 Azure App Services are commonly used for deploying Web Apps, APIs, and Java/Spring Boot services.
 
+**NOTE:**
+Any Connection between Azure DevOps Pipeline and any other Resources needs permissions attached to this Pipeline.
+
+
 ## Environments
 An Environment represents a target where your app or code gets deployed. <br>
 It could be:     
@@ -42,11 +46,17 @@ It could be:
 - An Azure resource (Web App, AKS, Function App)
 - A Kubernetes namespace
 
+## Library
+A Library is where you store and manage variables, variable groups, and secure secrets used across multiple pipelines.
 
-**NOTE:**
-Any Connection between Azure DevOps Pipeline and any other Resources needs permissions attached to this Pipeline.
+``` bash
+variables:
+- group: 'my-variable-group'   # refers to a Library group
 
+steps:
+- script: echo "Deploying to $(ENV)"
 
+```
 
 
 
