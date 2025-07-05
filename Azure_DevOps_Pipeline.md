@@ -28,12 +28,20 @@ Stages
      |__ Steps
 ```
 
-## Azure DevOps Pipelinee Connections with other Resources
+### Azure DevOps Pipelinee Connections with other Resources
 - **Connecting to Azure Artifacts** <br>
 Publish or consume application packages like .jar files 
 
 - **Deploying to Azure App Service**  <br>
 Azure App Services are commonly used for deploying Web Apps, APIs, and Java/Spring Boot services.
+
+## Environments
+An Environment represents a target where your app or code gets deployed. <br>
+It could be:     
+- A set of virtual machines (VMs)
+- An Azure resource (Web App, AKS, Function App)
+- A Kubernetes namespace
+
 
 **NOTE:**
 Any Connection between Azure DevOps Pipeline and any other Resources needs permissions attached to this Pipeline.
