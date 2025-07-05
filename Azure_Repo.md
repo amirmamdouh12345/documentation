@@ -10,16 +10,16 @@ Repos → Files | Commits | Pushes | Branches | Tags | Pull Requests
 - See commit history for a file
 - Create/edit/delete files (if permitted)
 
-2. **Commits**
+2. **Commits** <br>
 Shows all commit history on a selected branch.  <br>
 NOTE:  <br>
 You can click on any commit to see the updates/diff from the commit commit 
 
-3. **Branches**
+3. **Branches**  <br>
 Shows all branches in the repo.  <br>
 You can protect branches Branch Policies. you can decide the permissions of each User/Group on your Branch.
 
-4. **Pull Requests (PRs)**
+4. **Pull Requests (PRs)** <br>
 Workflow for reviewing and merging code from one branch into another
 
 Real Example 
