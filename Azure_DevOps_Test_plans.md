@@ -6,23 +6,23 @@ Test Plans in Azure DevOps are a full-featured testing suite for:
 - Test result tracking & reporting
 
 ## Test Plans Core Components:
-1. Test PLan
+1. **Test PLan** <br>
 A Test Plan is a container for test cases that target a particular release, sprint, or feature set. <br>
 it contains test suites and test cases. You can create multiple test plans per project <br>
 
-2. Test Suites
+2. **Test Suites**  <br>
 Inside a test plan, you can organize tests into suites:
 - Static                  -> Manually group test cases
 - Requirement-based	      -> Automatically create test cases for linked work items (e.g. User Stories)
 - Query-based	            -> Include test cases dynamically based on a query
 
-3. Test Cases
+3. **Test Cases**  <br>
 Each test case defines:
 - A set of steps to execute
 - Expected results
 - Associated work items
 
-4. Test Runs
+4. **Test Runs**  <br>
 A test run is an execution of test cases, either:
 - Manual (step-by-step execution)
 - Automated (via pipeline)
