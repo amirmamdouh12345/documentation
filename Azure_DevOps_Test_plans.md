@@ -27,7 +27,6 @@ A test run is an execution of test cases, either:
 - Manual (step-by-step execution)
 - Automated (via pipeline)
 - Exploratory (freeform testing session)
-
 Each run records:
 - Status (pass/fail/blocked)
 - Bug reporting
