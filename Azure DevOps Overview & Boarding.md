@@ -10,13 +10,11 @@ Azure DevOps Organization: amir-devops-org
 │   ├── Repos
 │   ├── Pipelines
 │   └── Boards
-├── Project: internal-tools
-│   ├── Repos
-│   ├── Test Plans
-│   └── Artifacts
-└── Project: data-pipeline
-    ├── Pipelines
-    └── Service Connections
+└── Project: internal-tools
+    ├── Repos
+    ├── Test Plans
+    └── Artifacts
+
 ```
 
 # Azure DevOps Board
