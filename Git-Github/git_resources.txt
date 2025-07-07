@@ -1,0 +1,8 @@
+https://agripongit.vincenttunru.com/
+
+
+
+git checkcout newBranch 
+git fetch newBranch 
+git switch newBranch 
+
